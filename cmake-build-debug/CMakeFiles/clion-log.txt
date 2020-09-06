@@ -1,0 +1,4 @@
+/snap/clion/124/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/cristime/桌面/Source/MyStack
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/cristime/桌面/Source/MyStack/cmake-build-debug
